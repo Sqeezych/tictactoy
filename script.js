@@ -1,5 +1,7 @@
 'use strict';
 
+
+consfnq
 const divs = document.querySelectorAll('.general div');
 const div = document.querySelector('.general');
 const button = document.querySelector('button');
